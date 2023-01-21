@@ -1,0 +1,15 @@
+/* ==UserStyle==
+@name         Bigger lichess coordinates
+@version      1.0.0
+@namespace    https://github.com/astroorbis
+@description  Makes the coordinates on Lichess boards bigger! Works with all Lichess extensions!
+@author       AstroOrbis
+@license      No License
+==/UserStyle== */
+
+.files,
+.ranks,
+.files coord,
+.ranks coord {
+    font-size: 20px;
+}
